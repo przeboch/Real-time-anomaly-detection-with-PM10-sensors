@@ -25,13 +25,3 @@ Aby uruchomić środowisko, wykonaj:
 ```bash
 cd jupyterlab-project
 docker compose up
-
-
-## 📁 Struktura projektu 
-
-my-project/
-├── .gitignore
-├── docker-compose.yml
-├── notebooks/              
-├── ipython_kernel_config.p
-├── README.md
